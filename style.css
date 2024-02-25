@@ -1,3 +1,32 @@
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ text-decoration:brown;
+ text-decoration-line:underline;
+ width: 100%;
+ font-size: 78pt;
+}
+h2{
+    text-align: center;
+    font: size 60pt;
+    font-style: italic;
+    text-shadow: 0dvw;
+}
+h2>p{
+    
+    font-style: italic;
+    font-size: 60pt;
+
+}
+
+div#FAYROUZ{
+align-content: center;
+width: 100%;
+size: 100%;
+}
+
 body{
-    background: blue;
+    background: rgb(211, 189, 80);
+    text-align: center;
+    font-size: 40pt;
 }
