@@ -1,3 +1,7 @@
+html{
+    background-color: rgb(211, 189, 80);
+}
+
 h1{
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -28,5 +32,5 @@ size: 100%;
 body{
     background: rgb(211, 189, 80);
     text-align: center;
-    font-size: 40pt;
+    font-size: 35pt;
 }
